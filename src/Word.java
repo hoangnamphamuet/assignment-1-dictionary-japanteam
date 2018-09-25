@@ -1,0 +1,1 @@
+import java.util.*;public class Word {    private String word_target,                   word_explain;    public Word(String word, String explain){        this.word_target = word;        this.word_explain = explain;    }    public String getWord(){        return this.word_target;    }    public String getExplain(){        return this.word_explain;    }}
