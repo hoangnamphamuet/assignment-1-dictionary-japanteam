@@ -1,1 +1,1 @@
-public class Main {    public static void main(String []args){        DictionaryCommandline dic_cmd = new DictionaryCommandline();        dic_cmd.dictionaryBasic();    }}
+public class Main {    public static void main(String []args){        DictionaryCommandline dic_cmd = new DictionaryCommandline();        dic_cmd.dictionaryBasic();    }}

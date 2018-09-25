@@ -1,1 +1,1 @@
-import java.util.ArrayList;import java.util.List;public class Dictionary {    List<Word> _word = new ArrayList<Word>(); // list word}
+import java.util.ArrayList;import java.util.List;/*class Dictionary để tạo 1 danh sách Word*/public class Dictionary {    List<Word> _word = new ArrayList<Word>(); // list word}
