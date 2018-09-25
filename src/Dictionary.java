@@ -1,1 +1,1 @@
-import java.util.ArrayList;import java.util.List;public class Dictionary {    List<Word> _word = new ArrayList<Word>();    public void AddNewWord(String word, String explain){            Word new_word = new Word(word, explain);            _word.add(new_word);    }}
+import java.util.ArrayList;import java.util.List;public class Dictionary {    List<Word> _word = new ArrayList<Word>(); // list word}
